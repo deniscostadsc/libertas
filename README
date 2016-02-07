@@ -1,0 +1,5 @@
+LIBERTAS
+
+vagrant up
+vagrant ssh
+make generateiso
